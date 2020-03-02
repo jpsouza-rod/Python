@@ -1,1 +1,9 @@
 print("ola mundo") 
+
+// para concatenar
+kmRodado = float (input("digite quantos quilometros foram pecorridos: "))
+qntDias = float (input("digite quantos dias o carro foi alugado: "))
+
+valorTotal=kmRodado|*0.15+qntDias*60
+
+print("o valor total a pagar é R$",valorTotal)
