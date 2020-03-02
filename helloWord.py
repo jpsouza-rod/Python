@@ -1,1 +1,2 @@
-print ("ola mundo")
+print ("ola mundo") #comando para exibir na tela 
+
