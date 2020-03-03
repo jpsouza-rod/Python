@@ -7,3 +7,7 @@ if idade1<idade2:
 else:
               print("crianca 1 é a mais velha com ", idade1-idade2, " anos de diferença")
 
+if idade1 and idade2 >10:
+              print("as duas crianças possuem idade superior a 10 anos")
+    if idade1 or idade2 <20:
+              print("umas das criancas possuem idade menor que 20 anos")
