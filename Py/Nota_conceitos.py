@@ -21,5 +21,6 @@ elif media_aluno > 6.9 and media_aluno <= 8.9:
               print ("conceito =  ( B )")
 else:
              print ("conceito =  ( E )")
+    
 
 
