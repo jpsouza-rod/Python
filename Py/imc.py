@@ -1,4 +1,5 @@
 print("--------------Calculo de IMC--------------")
+
 altura=float (input("Digite o seu Altura (m) : "))
 peso=float(input("Digite o seu peso (Kg) : "))
 
