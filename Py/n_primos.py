@@ -7,6 +7,7 @@ while op=="S" or op=="s":
         if numero%aux==0:
             cont+=1
         aux+=1
+        
     if cont>2:
         print("valor nao é primo")
     else:
